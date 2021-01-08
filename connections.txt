@@ -1,0 +1,8 @@
+NODE MCU           RFID
+D4		SDA
+D5		SCK
+D7		MOSI
+D6		MISO
+GND		GND
+D3		RST
+3V		3/3V	
