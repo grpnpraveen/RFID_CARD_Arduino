@@ -8,8 +8,11 @@ A buzzer,
 Bread board. 
 
 <img src="Circuit/connections.jpg" width="500">
+
+
 # About
 This project contians two ino files in which one of the file is just to identify the card tag and to print it on the serial monitor and the other is to give a buzzer three times when selected card detected and a long buzzer when other than selected card detected.
+
 # Applications
 Access control,
 Race timing,
