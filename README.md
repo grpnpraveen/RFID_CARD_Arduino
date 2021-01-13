@@ -1,5 +1,5 @@
 # RFID_CARD_Arduino
-This project is about rfid cards using rfid card reader and NodeMCU.
+This project is about rfid cards using rfid card reader and NodeMCU to read the card number and also to detect particular card.
 # components used
 NodeMCU,
 RC522 RFID reader,
